@@ -25,3 +25,8 @@ local.properties
 # PDT-specific
 .buildpath
 /bin
+
+# JabRef build files
+build.number
+build/
+src/resource/build.properties
